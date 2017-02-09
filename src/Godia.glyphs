@@ -60246,7 +60246,7 @@ unicode = 1EE7;
 },
 {
 glyphname = uhorn;
-lastChange = "2017-02-09 03:04:01 +0000";
+lastChange = "2017-02-09 05:43:09 +0000";
 layers = (
 {
 components = (
@@ -60255,11 +60255,11 @@ name = u;
 },
 {
 name = horncomb;
-transform = "{1, 0, 0, 1, 318, -44}";
+transform = "{1, 0, 0, 1, 328, -44}";
 }
 );
 layerId = "B5727F16-0A35-4648-A4D9-FB286E4462AB";
-width = 479;
+width = 489;
 }
 );
 unicode = 01B0;
@@ -83898,5 +83898,5 @@ oV = "100";
 };
 };
 versionMajor = 0;
-versionMinor = 901;
+versionMinor = 910;
 }
