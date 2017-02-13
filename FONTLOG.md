@@ -32,6 +32,25 @@ ChangeLog
 When you make modifications, be sure to add a description of your changes,
 following the format of the other entries, to the start of this section.
 
+12 February 2017 (Daniel Gamage, Tyler Finck) 'Godia' v0.940
+- Spacing Update
+- Kerning
+
+12 February 2017 (Daniel Gamage, Tyler Finck) 'Godia' v0.930
+- G, e, R
+- Updates all around
+- Tighter Spacing
+
+11 February 2017 (Daniel Gamage) 'Godia' v0.920
+- Balanced \S\
+- Harmonized lowercase bowls to lowercase \o\
+- Fixed ogonek
+- More shoulder updates
+- Adjusted position of kreska
+- Removed non-stylistic alternates from ssXX suffix
+- Added titling alternates for some accented and uppercase characters
+- Vertical metrics improvements for dist files
+
 09 February 2017 (Daniel Gamage) 'Godia' v0.910
 - Updated metrics
 - new Q design
@@ -54,3 +73,8 @@ N: Daniel Gamage
 E: hellodanielgamage@gmail.com
 W: https://github.com/danielgamage
 D: Designer - concept, design and production of original font
+
+N: Tyler Finck
+E: hi@tylerfinck.com
+W: http://www.tylerfinck.com/
+D: Designer - additional art direction and
