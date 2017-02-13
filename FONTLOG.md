@@ -32,6 +32,11 @@ ChangeLog
 When you make modifications, be sure to add a description of your changes,
 following the format of the other entries, to the start of this section.
 
+13 February 2017 (Daniel Gamage) 'Godia' v0.950
+- design updates for titling alternates
+- fixing collision of ligatures, diacritics, etc introduced in v0.940
+- more spacing updates
+
 12 February 2017 (Daniel Gamage, Tyler Finck) 'Godia' v0.940
 - Spacing Update
 - Kerning
