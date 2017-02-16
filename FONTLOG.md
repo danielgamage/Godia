@@ -82,4 +82,4 @@ D: Designer - concept, design and production of original font
 N: Tyler Finck
 E: hi@tylerfinck.com
 W: http://www.tylerfinck.com/
-D: Designer - additional art direction and
+D: Designer - additional art direction and improvements
