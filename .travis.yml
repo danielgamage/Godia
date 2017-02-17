@@ -22,7 +22,7 @@ install:
 - pip install git+https://github.com/googlefonts/fontbakery.git
 before_script:
 - mkdir -p builds/$TRAVIS_COMMIT
-- PATH=/home/travis/virtualenv/python2.7.9/bin/:$PATH ls -al
+- PATH=/home/travis/virtualenv/python2.7.12/bin/:$PATH ls -al
 script: (set -o pipefail; PATH=/home/travis/virtualenv/python2.7.12/bin/:$PATH fontbakery-build.py . 2>&1 | tee -a    builds/$TRAVIS_COMMIT/buildlog.txt)
 after_script:
 - PATH=/home/travis/virtualenv/python2.7.12/bin/:$PATH fontbakery-report.py builds/$TRAVIS_COMMIT
